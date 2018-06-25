@@ -129,7 +129,7 @@
               <p><?php echo $h['deskripsi']; ?></p>
             </div>
             <div class="resume-date text-md-right">
-              <span class="text-primary">March 2013 - Present</span>
+              <span class="text-primary">March 2013</span>
             </div>
           </div>
           <?php } ?>
